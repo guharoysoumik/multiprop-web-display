@@ -1,0 +1,135 @@
+{
+      "0_1_4_5": {
+            "5": {
+                  "Frame": 12,
+                  "Time": 8.83,
+                  "Type": "SAT"
+            },
+            "0": {
+                  "Frame": 62,
+                  "Time": 12836.67,
+                  "Type": "UNDET"
+            },
+            "4": {
+                  "Frame": 62,
+                  "Time": 12836.67,
+                  "Type": "UNDET"
+            },
+            "1": {
+                  "Frame": 62,
+                  "Time": 12836.67,
+                  "Type": "UNDET"
+            }
+      },
+      "2_3": {
+            "3": {
+                  "Frame": 58,
+                  "Time": 6852.51,
+                  "Type": "UNDET"
+            },
+            "2": {
+                  "Frame": 58,
+                  "Time": 6852.51,
+                  "Type": "UNDET"
+            }
+      },
+      "0_5": {
+            "5": {
+                  "Frame": 12,
+                  "Time": 10.42,
+                  "Type": "SAT"
+            },
+            "0": {
+                  "Frame": 61,
+                  "Time": 6654.22,
+                  "Type": "UNDET"
+            }
+      },
+      "1_2_3_5": {
+            "5": {
+                  "Frame": 12,
+                  "Time": 8.11,
+                  "Type": "SAT"
+            },
+            "3": {
+                  "Frame": 66,
+                  "Time": 13268.54,
+                  "Type": "UNDET"
+            },
+            "1": {
+                  "Frame": 66,
+                  "Time": 13268.54,
+                  "Type": "UNDET"
+            },
+            "2": {
+                  "Frame": 66,
+                  "Time": 13268.54,
+                  "Type": "UNDET"
+            }
+      },
+      "0_1": {
+            "0": {
+                  "Frame": 59,
+                  "Time": 5840.72,
+                  "Type": "UNDET"
+            },
+            "1": {
+                  "Frame": 59,
+                  "Time": 5840.72,
+                  "Type": "UNDET"
+            }
+      },
+      "1_3": {
+            "3": {
+                  "Frame": 57,
+                  "Time": 3521.12,
+                  "Type": "UNDET"
+            },
+            "1": {
+                  "Frame": 57,
+                  "Time": 3521.12,
+                  "Type": "UNDET"
+            }
+      },
+      "4_5": {
+            "5": {
+                  "Frame": 12,
+                  "Time": 10.68,
+                  "Type": "SAT"
+            },
+            "4": {
+                  "Frame": 60,
+                  "Time": 6853.32,
+                  "Type": "UNDET"
+            }
+      },
+      "0_4": {
+            "4": {
+                  "Frame": 65,
+                  "Time": 5507.68,
+                  "Type": "UNDET"
+            },
+            "0": {
+                  "Frame": 65,
+                  "Time": 5507.68,
+                  "Type": "UNDET"
+            }
+      },
+      "1_2_3": {
+            "3": {
+                  "Frame": 62,
+                  "Time": 8985.43,
+                  "Type": "UNDET"
+            },
+            "1": {
+                  "Frame": 62,
+                  "Time": 8985.43,
+                  "Type": "UNDET"
+            },
+            "2": {
+                  "Frame": 62,
+                  "Time": 8985.43,
+                  "Type": "UNDET"
+            }
+      }
+}

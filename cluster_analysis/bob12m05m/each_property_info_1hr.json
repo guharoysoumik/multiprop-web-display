@@ -1,0 +1,52 @@
+{
+      "7": {
+            "Frame": 32,
+            "Time": 3558.02,
+            "Type": "SAT"
+      },
+      "5": {
+            "Frame": 31,
+            "Time": 823.55,
+            "Type": "UNDET"
+      },
+      "4": {
+            "Frame": 32,
+            "Time": 3468.97,
+            "Type": "SAT"
+      },
+      "9": {
+            "Frame": 31,
+            "Time": 342.56,
+            "Type": "UNDET"
+      },
+      "2": {
+            "Frame": 31,
+            "Time": 350.75,
+            "Type": "UNDET"
+      },
+      "1": {
+            "Frame": 31,
+            "Time": 338.77,
+            "Type": "UNDET"
+      },
+      "6": {
+            "Frame": 31,
+            "Time": 385.42,
+            "Type": "UNDET"
+      },
+      "3": {
+            "Frame": 32,
+            "Time": 3578.96,
+            "Type": "SAT"
+      },
+      "8": {
+            "Frame": 31,
+            "Time": 284.51,
+            "Type": "UNDET"
+      },
+      "0": {
+            "Frame": 32,
+            "Time": 2903.96,
+            "Type": "SAT"
+      }
+}

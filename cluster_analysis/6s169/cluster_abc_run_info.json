@@ -1,0 +1,1081 @@
+{
+      "0_2_3_10": {
+            "3": {
+                  "Frame": 42,
+                  "Time": 14087.71,
+                  "Type": "UNDET"
+            },
+            "0": {
+                  "Frame": 42,
+                  "Time": 14087.71,
+                  "Type": "UNDET"
+            },
+            "10": {
+                  "Frame": 42,
+                  "Time": 14087.71,
+                  "Type": "UNDET"
+            },
+            "2": {
+                  "Frame": 42,
+                  "Time": 14087.71,
+                  "Type": "UNDET"
+            }
+      },
+      "6_11": {
+            "6": {
+                  "Frame": 17,
+                  "Time": 7164.89,
+                  "Type": "UNDET"
+            },
+            "11": {
+                  "Frame": 17,
+                  "Time": 7164.89,
+                  "Type": "UNDET"
+            }
+      },
+      "0_2_3_4_5_6_8_10_12_14_15": {
+            "0": {
+                  "Frame": 37,
+                  "Time": 38889.19,
+                  "Type": "UNDET"
+            },
+            "10": {
+                  "Frame": 37,
+                  "Time": 38889.19,
+                  "Type": "UNDET"
+            },
+            "3": {
+                  "Frame": 37,
+                  "Time": 38889.19,
+                  "Type": "UNDET"
+            },
+            "5": {
+                  "Frame": 37,
+                  "Time": 38889.19,
+                  "Type": "UNDET"
+            },
+            "14": {
+                  "Frame": 37,
+                  "Time": 38889.19,
+                  "Type": "UNDET"
+            },
+            "15": {
+                  "Frame": 37,
+                  "Time": 38889.19,
+                  "Type": "UNDET"
+            },
+            "8": {
+                  "Frame": 37,
+                  "Time": 38889.19,
+                  "Type": "UNDET"
+            },
+            "12": {
+                  "Frame": 37,
+                  "Time": 38889.19,
+                  "Type": "UNDET"
+            },
+            "2": {
+                  "Frame": 37,
+                  "Time": 38889.19,
+                  "Type": "UNDET"
+            },
+            "4": {
+                  "Frame": 37,
+                  "Time": 38889.19,
+                  "Type": "UNDET"
+            },
+            "6": {
+                  "Frame": 37,
+                  "Time": 38889.19,
+                  "Type": "UNDET"
+            }
+      },
+      "0_2_3_4_6_8_9_10_12_14_15": {
+            "0": {
+                  "Frame": 25,
+                  "Time": 38950.05,
+                  "Type": "UNDET"
+            },
+            "10": {
+                  "Frame": 25,
+                  "Time": 38950.05,
+                  "Type": "UNDET"
+            },
+            "3": {
+                  "Frame": 25,
+                  "Time": 38950.05,
+                  "Type": "UNDET"
+            },
+            "14": {
+                  "Frame": 25,
+                  "Time": 38950.05,
+                  "Type": "UNDET"
+            },
+            "15": {
+                  "Frame": 25,
+                  "Time": 38950.05,
+                  "Type": "UNDET"
+            },
+            "8": {
+                  "Frame": 25,
+                  "Time": 38950.05,
+                  "Type": "UNDET"
+            },
+            "12": {
+                  "Frame": 25,
+                  "Time": 38950.05,
+                  "Type": "UNDET"
+            },
+            "9": {
+                  "Frame": 25,
+                  "Time": 38950.05,
+                  "Type": "UNDET"
+            },
+            "2": {
+                  "Frame": 25,
+                  "Time": 38950.05,
+                  "Type": "UNDET"
+            },
+            "4": {
+                  "Frame": 25,
+                  "Time": 38950.05,
+                  "Type": "UNDET"
+            },
+            "6": {
+                  "Frame": 25,
+                  "Time": 38950.05,
+                  "Type": "UNDET"
+            }
+      },
+      "0_2_3_4_5_6_10_14": {
+            "0": {
+                  "Frame": 22,
+                  "Time": 27730.99,
+                  "Type": "UNDET"
+            },
+            "10": {
+                  "Frame": 22,
+                  "Time": 27730.99,
+                  "Type": "UNDET"
+            },
+            "3": {
+                  "Frame": 22,
+                  "Time": 27730.99,
+                  "Type": "UNDET"
+            },
+            "5": {
+                  "Frame": 22,
+                  "Time": 27730.99,
+                  "Type": "UNDET"
+            },
+            "14": {
+                  "Frame": 22,
+                  "Time": 27730.99,
+                  "Type": "UNDET"
+            },
+            "2": {
+                  "Frame": 22,
+                  "Time": 27730.99,
+                  "Type": "UNDET"
+            },
+            "4": {
+                  "Frame": 22,
+                  "Time": 27730.99,
+                  "Type": "UNDET"
+            },
+            "6": {
+                  "Frame": 22,
+                  "Time": 27730.99,
+                  "Type": "UNDET"
+            }
+      },
+      "0_2_3_6_8_10_14": {
+            "0": {
+                  "Frame": 18,
+                  "Time": 24362.94,
+                  "Type": "UNDET"
+            },
+            "14": {
+                  "Frame": 18,
+                  "Time": 24362.94,
+                  "Type": "UNDET"
+            },
+            "2": {
+                  "Frame": 18,
+                  "Time": 24362.94,
+                  "Type": "UNDET"
+            },
+            "3": {
+                  "Frame": 18,
+                  "Time": 24362.94,
+                  "Type": "UNDET"
+            },
+            "10": {
+                  "Frame": 18,
+                  "Time": 24362.94,
+                  "Type": "UNDET"
+            },
+            "6": {
+                  "Frame": 18,
+                  "Time": 24362.94,
+                  "Type": "UNDET"
+            },
+            "8": {
+                  "Frame": 18,
+                  "Time": 24362.94,
+                  "Type": "UNDET"
+            }
+      },
+      "2_3_6_14": {
+            "3": {
+                  "Frame": 13,
+                  "Time": 12958.73,
+                  "Type": "UNDET"
+            },
+            "14": {
+                  "Frame": 13,
+                  "Time": 12958.73,
+                  "Type": "UNDET"
+            },
+            "2": {
+                  "Frame": 13,
+                  "Time": 12958.73,
+                  "Type": "UNDET"
+            },
+            "6": {
+                  "Frame": 13,
+                  "Time": 12958.73,
+                  "Type": "UNDET"
+            }
+      },
+      "0_1_2_3_4_5_6_7_8_9_10_11_12_13_14_15": {
+            "0": {
+                  "Frame": 42,
+                  "Time": 57242.61,
+                  "Type": "UNDET"
+            },
+            "11": {
+                  "Frame": 42,
+                  "Time": 57242.61,
+                  "Type": "UNDET"
+            },
+            "12": {
+                  "Frame": 42,
+                  "Time": 57242.61,
+                  "Type": "UNDET"
+            },
+            "9": {
+                  "Frame": 42,
+                  "Time": 57242.61,
+                  "Type": "UNDET"
+            },
+            "2": {
+                  "Frame": 42,
+                  "Time": 57242.61,
+                  "Type": "UNDET"
+            },
+            "10": {
+                  "Frame": 42,
+                  "Time": 57242.61,
+                  "Type": "UNDET"
+            },
+            "4": {
+                  "Frame": 42,
+                  "Time": 57242.61,
+                  "Type": "UNDET"
+            },
+            "6": {
+                  "Frame": 42,
+                  "Time": 57242.61,
+                  "Type": "UNDET"
+            },
+            "13": {
+                  "Frame": 42,
+                  "Time": 57242.61,
+                  "Type": "UNDET"
+            },
+            "3": {
+                  "Frame": 42,
+                  "Time": 57242.61,
+                  "Type": "UNDET"
+            },
+            "5": {
+                  "Frame": 42,
+                  "Time": 57242.61,
+                  "Type": "UNDET"
+            },
+            "14": {
+                  "Frame": 42,
+                  "Time": 57242.61,
+                  "Type": "UNDET"
+            },
+            "15": {
+                  "Frame": 42,
+                  "Time": 57242.61,
+                  "Type": "UNDET"
+            },
+            "8": {
+                  "Frame": 42,
+                  "Time": 57242.61,
+                  "Type": "UNDET"
+            },
+            "7": {
+                  "Frame": 42,
+                  "Time": 57242.61,
+                  "Type": "UNDET"
+            },
+            "1": {
+                  "Frame": 42,
+                  "Time": 57242.61,
+                  "Type": "UNDET"
+            }
+      },
+      "9_14": {
+            "14": {
+                  "Frame": 10,
+                  "Time": 4395.51,
+                  "Type": "UNDET"
+            },
+            "9": {
+                  "Frame": 10,
+                  "Time": 4395.51,
+                  "Type": "UNDET"
+            }
+      },
+      "1_7": {
+            "1": {
+                  "Frame": 207,
+                  "Time": 7191.67,
+                  "Type": "UNDET"
+            },
+            "7": {
+                  "Frame": 207,
+                  "Time": 7191.67,
+                  "Type": "UNDET"
+            }
+      },
+      "2_4_5_6_8_10_11": {
+            "2": {
+                  "Frame": 102,
+                  "Time": 25193.09,
+                  "Type": "UNDET"
+            },
+            "4": {
+                  "Frame": 102,
+                  "Time": 25193.09,
+                  "Type": "UNDET"
+            },
+            "6": {
+                  "Frame": 102,
+                  "Time": 25193.09,
+                  "Type": "UNDET"
+            },
+            "5": {
+                  "Frame": 102,
+                  "Time": 25193.09,
+                  "Type": "UNDET"
+            },
+            "10": {
+                  "Frame": 102,
+                  "Time": 25193.09,
+                  "Type": "UNDET"
+            },
+            "11": {
+                  "Frame": 102,
+                  "Time": 25193.09,
+                  "Type": "UNDET"
+            },
+            "8": {
+                  "Frame": 102,
+                  "Time": 25193.09,
+                  "Type": "UNDET"
+            }
+      },
+      "9_12_14_15": {
+            "14": {
+                  "Frame": 17,
+                  "Time": 13946.12,
+                  "Type": "UNDET"
+            },
+            "15": {
+                  "Frame": 17,
+                  "Time": 13946.12,
+                  "Type": "UNDET"
+            },
+            "9": {
+                  "Frame": 17,
+                  "Time": 13946.12,
+                  "Type": "UNDET"
+            },
+            "12": {
+                  "Frame": 17,
+                  "Time": 13946.12,
+                  "Type": "UNDET"
+            }
+      },
+      "3_13": {
+            "3": {
+                  "Frame": 13,
+                  "Time": 6026.96,
+                  "Type": "UNDET"
+            },
+            "13": {
+                  "Frame": 13,
+                  "Time": 6026.96,
+                  "Type": "UNDET"
+            }
+      },
+      "0_1_3_7_12_13_15": {
+            "13": {
+                  "Frame": 21,
+                  "Time": 24397.72,
+                  "Type": "UNDET"
+            },
+            "0": {
+                  "Frame": 21,
+                  "Time": 24397.72,
+                  "Type": "UNDET"
+            },
+            "12": {
+                  "Frame": 21,
+                  "Time": 24397.72,
+                  "Type": "UNDET"
+            },
+            "1": {
+                  "Frame": 21,
+                  "Time": 24397.72,
+                  "Type": "UNDET"
+            },
+            "3": {
+                  "Frame": 21,
+                  "Time": 24397.72,
+                  "Type": "UNDET"
+            },
+            "15": {
+                  "Frame": 21,
+                  "Time": 24397.72,
+                  "Type": "UNDET"
+            },
+            "7": {
+                  "Frame": 21,
+                  "Time": 24397.72,
+                  "Type": "UNDET"
+            }
+      },
+      "2_4_5_6_8_9_10_11_14": {
+            "10": {
+                  "Frame": 27,
+                  "Time": 31948.14,
+                  "Type": "UNDET"
+            },
+            "14": {
+                  "Frame": 27,
+                  "Time": 31948.14,
+                  "Type": "UNDET"
+            },
+            "5": {
+                  "Frame": 27,
+                  "Time": 31948.14,
+                  "Type": "UNDET"
+            },
+            "11": {
+                  "Frame": 27,
+                  "Time": 31948.14,
+                  "Type": "UNDET"
+            },
+            "8": {
+                  "Frame": 27,
+                  "Time": 31948.14,
+                  "Type": "UNDET"
+            },
+            "9": {
+                  "Frame": 27,
+                  "Time": 31948.14,
+                  "Type": "UNDET"
+            },
+            "2": {
+                  "Frame": 27,
+                  "Time": 31948.14,
+                  "Type": "UNDET"
+            },
+            "4": {
+                  "Frame": 27,
+                  "Time": 31948.14,
+                  "Type": "UNDET"
+            },
+            "6": {
+                  "Frame": 27,
+                  "Time": 31948.14,
+                  "Type": "UNDET"
+            }
+      },
+      "1_3_7_13": {
+            "3": {
+                  "Frame": 14,
+                  "Time": 13495.79,
+                  "Type": "UNDET"
+            },
+            "13": {
+                  "Frame": 14,
+                  "Time": 13495.79,
+                  "Type": "UNDET"
+            },
+            "7": {
+                  "Frame": 14,
+                  "Time": 13495.79,
+                  "Type": "UNDET"
+            },
+            "1": {
+                  "Frame": 14,
+                  "Time": 13495.79,
+                  "Type": "UNDET"
+            }
+      },
+      "7_8_9_11_12_15": {
+            "9": {
+                  "Frame": 21,
+                  "Time": 20772.32,
+                  "Type": "UNDET"
+            },
+            "8": {
+                  "Frame": 21,
+                  "Time": 20772.32,
+                  "Type": "UNDET"
+            },
+            "15": {
+                  "Frame": 21,
+                  "Time": 20772.32,
+                  "Type": "UNDET"
+            },
+            "11": {
+                  "Frame": 21,
+                  "Time": 20772.32,
+                  "Type": "UNDET"
+            },
+            "12": {
+                  "Frame": 21,
+                  "Time": 20772.32,
+                  "Type": "UNDET"
+            },
+            "7": {
+                  "Frame": 21,
+                  "Time": 20772.32,
+                  "Type": "UNDET"
+            }
+      },
+      "5_6_11": {
+            "5": {
+                  "Frame": 20,
+                  "Time": 9404.2,
+                  "Type": "UNDET"
+            },
+            "6": {
+                  "Frame": 20,
+                  "Time": 9404.2,
+                  "Type": "UNDET"
+            },
+            "11": {
+                  "Frame": 20,
+                  "Time": 9404.2,
+                  "Type": "UNDET"
+            }
+      },
+      "3_6_14": {
+            "3": {
+                  "Frame": 12,
+                  "Time": 8050.41,
+                  "Type": "UNDET"
+            },
+            "14": {
+                  "Frame": 12,
+                  "Time": 8050.41,
+                  "Type": "UNDET"
+            },
+            "6": {
+                  "Frame": 12,
+                  "Time": 8050.41,
+                  "Type": "UNDET"
+            }
+      },
+      "4_5_6_8_11": {
+            "6": {
+                  "Frame": 57,
+                  "Time": 17814.47,
+                  "Type": "UNDET"
+            },
+            "5": {
+                  "Frame": 57,
+                  "Time": 17814.47,
+                  "Type": "UNDET"
+            },
+            "4": {
+                  "Frame": 57,
+                  "Time": 17814.47,
+                  "Type": "UNDET"
+            },
+            "11": {
+                  "Frame": 57,
+                  "Time": 17814.47,
+                  "Type": "UNDET"
+            },
+            "8": {
+                  "Frame": 57,
+                  "Time": 17814.47,
+                  "Type": "UNDET"
+            }
+      },
+      "4_5_6_11": {
+            "11": {
+                  "Frame": 27,
+                  "Time": 13322.51,
+                  "Type": "UNDET"
+            },
+            "5": {
+                  "Frame": 27,
+                  "Time": 13322.51,
+                  "Type": "UNDET"
+            },
+            "4": {
+                  "Frame": 27,
+                  "Time": 13322.51,
+                  "Type": "UNDET"
+            },
+            "6": {
+                  "Frame": 27,
+                  "Time": 13322.51,
+                  "Type": "UNDET"
+            }
+      },
+      "1_7_9_11_13": {
+            "13": {
+                  "Frame": 44,
+                  "Time": 17770.98,
+                  "Type": "UNDET"
+            },
+            "9": {
+                  "Frame": 44,
+                  "Time": 17770.98,
+                  "Type": "UNDET"
+            },
+            "1": {
+                  "Frame": 44,
+                  "Time": 17770.98,
+                  "Type": "UNDET"
+            },
+            "11": {
+                  "Frame": 44,
+                  "Time": 17770.98,
+                  "Type": "UNDET"
+            },
+            "7": {
+                  "Frame": 44,
+                  "Time": 17770.98,
+                  "Type": "UNDET"
+            }
+      },
+      "2_3_4_6_8_10_14_15": {
+            "10": {
+                  "Frame": 18,
+                  "Time": 28150.55,
+                  "Type": "UNDET"
+            },
+            "3": {
+                  "Frame": 18,
+                  "Time": 28150.55,
+                  "Type": "UNDET"
+            },
+            "14": {
+                  "Frame": 18,
+                  "Time": 28150.55,
+                  "Type": "UNDET"
+            },
+            "15": {
+                  "Frame": 18,
+                  "Time": 28150.55,
+                  "Type": "UNDET"
+            },
+            "8": {
+                  "Frame": 18,
+                  "Time": 28150.55,
+                  "Type": "UNDET"
+            },
+            "2": {
+                  "Frame": 18,
+                  "Time": 28150.55,
+                  "Type": "UNDET"
+            },
+            "4": {
+                  "Frame": 18,
+                  "Time": 28150.55,
+                  "Type": "UNDET"
+            },
+            "6": {
+                  "Frame": 18,
+                  "Time": 28150.55,
+                  "Type": "UNDET"
+            }
+      },
+      "2_4_6_8_9_10_11_14": {
+            "10": {
+                  "Frame": 18,
+                  "Time": 28382.26,
+                  "Type": "UNDET"
+            },
+            "14": {
+                  "Frame": 18,
+                  "Time": 28382.26,
+                  "Type": "UNDET"
+            },
+            "11": {
+                  "Frame": 18,
+                  "Time": 28382.26,
+                  "Type": "UNDET"
+            },
+            "8": {
+                  "Frame": 18,
+                  "Time": 28382.26,
+                  "Type": "UNDET"
+            },
+            "9": {
+                  "Frame": 18,
+                  "Time": 28382.26,
+                  "Type": "UNDET"
+            },
+            "2": {
+                  "Frame": 18,
+                  "Time": 28382.26,
+                  "Type": "UNDET"
+            },
+            "4": {
+                  "Frame": 18,
+                  "Time": 28382.26,
+                  "Type": "UNDET"
+            },
+            "6": {
+                  "Frame": 18,
+                  "Time": 28382.26,
+                  "Type": "UNDET"
+            }
+      },
+      "0_1_3_7_13": {
+            "13": {
+                  "Frame": 15,
+                  "Time": 17572.59,
+                  "Type": "UNDET"
+            },
+            "0": {
+                  "Frame": 15,
+                  "Time": 17572.59,
+                  "Type": "UNDET"
+            },
+            "1": {
+                  "Frame": 15,
+                  "Time": 17572.59,
+                  "Type": "UNDET"
+            },
+            "3": {
+                  "Frame": 15,
+                  "Time": 17572.59,
+                  "Type": "UNDET"
+            },
+            "7": {
+                  "Frame": 15,
+                  "Time": 17572.59,
+                  "Type": "UNDET"
+            }
+      },
+      "6_8_9_14_15": {
+            "9": {
+                  "Frame": 13,
+                  "Time": 16133.74,
+                  "Type": "UNDET"
+            },
+            "8": {
+                  "Frame": 13,
+                  "Time": 16133.74,
+                  "Type": "UNDET"
+            },
+            "14": {
+                  "Frame": 13,
+                  "Time": 16133.74,
+                  "Type": "UNDET"
+            },
+            "6": {
+                  "Frame": 13,
+                  "Time": 16133.74,
+                  "Type": "UNDET"
+            },
+            "15": {
+                  "Frame": 13,
+                  "Time": 16133.74,
+                  "Type": "UNDET"
+            }
+      },
+      "6_14": {
+            "14": {
+                  "Frame": 9,
+                  "Time": 5954.67,
+                  "Type": "UNDET"
+            },
+            "6": {
+                  "Frame": 9,
+                  "Time": 5954.67,
+                  "Type": "UNDET"
+            }
+      },
+      "0_3": {
+            "3": {
+                  "Frame": 21387,
+                  "Time": 7198.68,
+                  "Type": "UNDET"
+            },
+            "0": {
+                  "Frame": 21387,
+                  "Time": 7198.68,
+                  "Type": "UNDET"
+            }
+      },
+      "4_5_6_8_10_11": {
+            "4": {
+                  "Frame": 79,
+                  "Time": 21423.63,
+                  "Type": "UNDET"
+            },
+            "6": {
+                  "Frame": 79,
+                  "Time": 21423.63,
+                  "Type": "UNDET"
+            },
+            "5": {
+                  "Frame": 79,
+                  "Time": 21423.63,
+                  "Type": "UNDET"
+            },
+            "10": {
+                  "Frame": 79,
+                  "Time": 21423.63,
+                  "Type": "UNDET"
+            },
+            "11": {
+                  "Frame": 79,
+                  "Time": 21423.63,
+                  "Type": "UNDET"
+            },
+            "8": {
+                  "Frame": 79,
+                  "Time": 21423.63,
+                  "Type": "UNDET"
+            }
+      },
+      "2_6_8_14": {
+            "14": {
+                  "Frame": 11,
+                  "Time": 13474.27,
+                  "Type": "UNDET"
+            },
+            "2": {
+                  "Frame": 11,
+                  "Time": 13474.27,
+                  "Type": "UNDET"
+            },
+            "6": {
+                  "Frame": 11,
+                  "Time": 13474.27,
+                  "Type": "UNDET"
+            },
+            "8": {
+                  "Frame": 11,
+                  "Time": 13474.27,
+                  "Type": "UNDET"
+            }
+      },
+      "9_12_14": {
+            "14": {
+                  "Frame": 18,
+                  "Time": 10269.09,
+                  "Type": "UNDET"
+            },
+            "9": {
+                  "Frame": 18,
+                  "Time": 10269.09,
+                  "Type": "UNDET"
+            },
+            "12": {
+                  "Frame": 18,
+                  "Time": 10269.09,
+                  "Type": "UNDET"
+            }
+      },
+      "0_2_3_4_6_9_10_11_14_15": {
+            "0": {
+                  "Frame": 31,
+                  "Time": 35271.15,
+                  "Type": "UNDET"
+            },
+            "10": {
+                  "Frame": 31,
+                  "Time": 35271.15,
+                  "Type": "UNDET"
+            },
+            "3": {
+                  "Frame": 31,
+                  "Time": 35271.15,
+                  "Type": "UNDET"
+            },
+            "14": {
+                  "Frame": 31,
+                  "Time": 35271.15,
+                  "Type": "UNDET"
+            },
+            "15": {
+                  "Frame": 31,
+                  "Time": 35271.15,
+                  "Type": "UNDET"
+            },
+            "11": {
+                  "Frame": 31,
+                  "Time": 35271.15,
+                  "Type": "UNDET"
+            },
+            "9": {
+                  "Frame": 31,
+                  "Time": 35271.15,
+                  "Type": "UNDET"
+            },
+            "2": {
+                  "Frame": 31,
+                  "Time": 35271.15,
+                  "Type": "UNDET"
+            },
+            "4": {
+                  "Frame": 31,
+                  "Time": 35271.15,
+                  "Type": "UNDET"
+            },
+            "6": {
+                  "Frame": 31,
+                  "Time": 35271.15,
+                  "Type": "UNDET"
+            }
+      },
+      "7_9": {
+            "9": {
+                  "Frame": 63,
+                  "Time": 7084.82,
+                  "Type": "UNDET"
+            },
+            "7": {
+                  "Frame": 63,
+                  "Time": 7084.82,
+                  "Type": "UNDET"
+            }
+      },
+      "2_3_4_6_10_14": {
+            "10": {
+                  "Frame": 19,
+                  "Time": 19780.08,
+                  "Type": "UNDET"
+            },
+            "14": {
+                  "Frame": 19,
+                  "Time": 19780.08,
+                  "Type": "UNDET"
+            },
+            "2": {
+                  "Frame": 19,
+                  "Time": 19780.08,
+                  "Type": "UNDET"
+            },
+            "3": {
+                  "Frame": 19,
+                  "Time": 19780.08,
+                  "Type": "UNDET"
+            },
+            "4": {
+                  "Frame": 19,
+                  "Time": 19780.08,
+                  "Type": "UNDET"
+            },
+            "6": {
+                  "Frame": 19,
+                  "Time": 19780.08,
+                  "Type": "UNDET"
+            }
+      },
+      "0_3_7_12_15": {
+            "0": {
+                  "Frame": 12,
+                  "Time": 15065.86,
+                  "Type": "UNDET"
+            },
+            "12": {
+                  "Frame": 12,
+                  "Time": 15065.86,
+                  "Type": "UNDET"
+            },
+            "3": {
+                  "Frame": 12,
+                  "Time": 15065.86,
+                  "Type": "UNDET"
+            },
+            "15": {
+                  "Frame": 12,
+                  "Time": 15065.86,
+                  "Type": "UNDET"
+            },
+            "7": {
+                  "Frame": 12,
+                  "Time": 15065.86,
+                  "Type": "UNDET"
+            }
+      },
+      "0_2_3_4_6_10_14": {
+            "0": {
+                  "Frame": 19,
+                  "Time": 24314.11,
+                  "Type": "UNDET"
+            },
+            "14": {
+                  "Frame": 19,
+                  "Time": 24314.11,
+                  "Type": "UNDET"
+            },
+            "2": {
+                  "Frame": 19,
+                  "Time": 24314.11,
+                  "Type": "UNDET"
+            },
+            "4": {
+                  "Frame": 19,
+                  "Time": 24314.11,
+                  "Type": "UNDET"
+            },
+            "3": {
+                  "Frame": 19,
+                  "Time": 24314.11,
+                  "Type": "UNDET"
+            },
+            "10": {
+                  "Frame": 19,
+                  "Time": 24314.11,
+                  "Type": "UNDET"
+            },
+            "6": {
+                  "Frame": 19,
+                  "Time": 24314.11,
+                  "Type": "UNDET"
+            }
+      },
+      "1_13": {
+            "13": {
+                  "Frame": 13,
+                  "Time": 5741.39,
+                  "Type": "UNDET"
+            },
+            "1": {
+                  "Frame": 13,
+                  "Time": 5741.39,
+                  "Type": "UNDET"
+            }
+      }
+}

@@ -1,0 +1,67 @@
+{
+      "2_3": {
+            "2": {
+                  "Frame": 27,
+                  "Time": 3661.26,
+                  "Type": "UNDET"
+            },
+            "3": {
+                  "Frame": 27,
+                  "Time": 3661.26,
+                  "Type": "UNDET"
+            }
+      },
+      "0_1": {
+            "0": {
+                  "Frame": 13,
+                  "Time": 0.06,
+                  "Type": "SAT"
+            },
+            "1": {
+                  "Frame": 13,
+                  "Time": 0.06,
+                  "Type": "SAT"
+            }
+      },
+      "1_3": {
+            "1": {
+                  "Frame": 13,
+                  "Time": 0.06,
+                  "Type": "SAT"
+            },
+            "3": {
+                  "Frame": 27,
+                  "Time": 3600.29,
+                  "Type": "UNDET"
+            }
+      },
+      "0_2_3": {
+            "0": {
+                  "Frame": 13,
+                  "Time": 0.06,
+                  "Type": "SAT"
+            },
+            "2": {
+                  "Frame": 28,
+                  "Time": 9774.62,
+                  "Type": "UNDET"
+            },
+            "3": {
+                  "Frame": 28,
+                  "Time": 9774.62,
+                  "Type": "UNDET"
+            }
+      },
+      "0_2": {
+            "0": {
+                  "Frame": 13,
+                  "Time": 0.06,
+                  "Type": "SAT"
+            },
+            "2": {
+                  "Frame": 27,
+                  "Time": 3592.17,
+                  "Type": "UNDET"
+            }
+      }
+}
