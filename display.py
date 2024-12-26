@@ -33,7 +33,7 @@ def read_json():
         # Display "Cluster Gain Info" data
         with open(cluster_gain_file_name, 'r') as stream:
             data = json.load(stream)
-        st.subheader("📈 Cluster Gain Information")
+        st.subheader("📈 Details of Cluster Gain Information ")
         csv_data = pd.DataFrame(data)
         st.dataframe(csv_data, use_container_width=True)
         st.markdown("---")
